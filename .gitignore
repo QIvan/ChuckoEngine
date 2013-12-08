@@ -4,3 +4,18 @@
 *.jar
 *.war
 *.ear
+
+~*
+# IDEA Ignores
+*.iml
+*.ipr
+*.iws
+.svn
+local.properties
+.idea/workspace.xml
+
+# Generic Android ignores
+bin/
+target
+gen/
+out/
